@@ -4,6 +4,17 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+## Requirements
+The notebook in this repo requires the package in the `requirements.txt` file.
+
+## Files
+The important files/folder for this repo are shown as follows:
+- `dog_app.ipynb` - a notebook that contains most of the work done.
+- `dog_app.html` - a html version of the python notebook above.
+- `custom_images` - a folder that contains the custom images that are used at the end of the notebook.
+- `saved_models` - a folder that contains the pre-trained transfer learning classifiers.
+- `extract_bottleneck_features.py` - a auxilliary python file that helps to get the weight of the pre-trained models.
+
 
 ## Project Overview
 
